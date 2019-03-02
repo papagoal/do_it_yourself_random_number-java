@@ -1,0 +1,26 @@
+Encrypt: hello world
+
+dynamic key(encrypt): 222
+dynamic key(encrypt): 81
+dynamic key(encrypt): 162
+dynamic key(encrypt): 61
+dynamic key(encrypt): 70
+dynamic key(encrypt): 201
+dynamic key(encrypt): 202
+dynamic key(encrypt): 245
+dynamic key(encrypt): 46
+dynamic key(encrypt): 193
+dynamic key(encrypt): 114
+binary encrypt: 1100822
+binary encrypt: 1100052
+binary encrypt: 1101198
+binary encrypt: 1101073
+binary encrypt: 1101169
+binary encrypt: 99945
+binary encrypt: 1110165
+binary encrypt: 1101250
+binary encrypt: 1109972
+binary encrypt: 1101293
+binary encrypt: 1100086
+
+Decrypt: hello world

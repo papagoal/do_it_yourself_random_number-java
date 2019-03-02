@@ -1,0 +1,8 @@
+Welcome to the Not-So-Secure (NNS) pseudo-random number generator.
+Numbers cost $0.25 apiece
+
+Generating 10 random numbers in the range [40, 100]
+54, 44, 76, 63, 65, 63, 70, 93, 40, 52 
+
+Programmed by Danhang Liu
+End of processing

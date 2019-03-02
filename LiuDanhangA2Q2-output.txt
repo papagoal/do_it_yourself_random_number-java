@@ -1,0 +1,31 @@
+firstLine 20 50 10
+20 50 10
+Welcome to the Not-So-Secure (NNS) pseudo-random number generator.
+Numbers cost $0.25 apiece
+Generating 10 random numbers in the range [20, 50]
+26, 31, 22, 50, 34, 26, 35, 32, 36, 44 
+
+secondLine 15 60 12
+15 60 12
+Welcome to the Not-So-Secure (NNS) pseudo-random number generator.
+Numbers cost $0.25 apiece
+Generating 12 random numbers in the range [15, 60]
+41, 44, 39, 46, 57, 20, 15, 46, 57, 46, 47, 18 
+
+thirdLine 50 100 10
+50 100 10
+Welcome to the Not-So-Secure (NNS) pseudo-random number generator.
+Numbers cost $0.25 apiece
+Generating 10 random numbers in the range [50, 100]
+97, 73, 53, 57, 61, 92, 64, 76, 82, 60 
+
+fourthLine 30 100 10
+30 100 10
+Welcome to the Not-So-Secure (NNS) pseudo-random number generator.
+Numbers cost $0.25 apiece
+Generating 10 random numbers in the range [30, 100]
+61, 35, 88, 41, 59, 73, 35, 81, 31, 60 
+
+
+Programmed by Danhang Liu
+End of processing

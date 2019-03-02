@@ -1,0 +1,6 @@
+firstLine 20 50 10
+secondLine 15 60 12
+thirdLine 50 100 10
+:this is a wrong entry and you shouldn't read this line. It should be ignored!
+fourthLine 30 100 10
+:this is anohter wrong entry and you shouldn't read this line. It should be ignored!
